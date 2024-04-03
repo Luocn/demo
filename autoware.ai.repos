@@ -1,0 +1,49 @@
+repositories:
+  autoware/common:
+    type: git
+    url: https://gitee.com/kin_zhang/common.git
+    version: master
+  autoware/core_perception:
+    type: git
+    url: https://gitee.com/kin_zhang/core_perception.git
+    version: master
+  autoware/core_planning:
+    type: git
+    url: https://gitee.com/kin_zhang/core_planning.git
+    version: master
+  autoware/documentation:
+    type: git
+    url: https://gitee.com/kin_zhang/documentation.git
+    version: master
+  autoware/messages:
+    type: git
+    url: https://gitee.com/kin_zhang/messages.git
+    version: master
+  autoware/simulation:
+    type: git
+    url: https://gitee.com/kin_zhang/simulation.git
+    version: master
+  autoware/utilities:
+    type: git
+    url: https://gitee.com/n__n/utilities.git
+    version: master
+  autoware/visualization:
+    type: git
+    url: https://gitee.com/kin_zhang/visualization.git
+    version: master
+  drivers/awf_drivers:
+    type: git
+    url: https://gitee.com/kin_zhang/drivers.git
+    version: master
+  citysim:
+    type: git
+    url: https://gitee.com/kin_zhang/osrf_citysim.git
+    version: master
+  car_demo:
+    type: git
+    url: https://gitee.com/kin_zhang/car_demo.git
+    version: master
+  drivers/ds4:
+    type: git
+    url: https://gitee.com/kin_zhang/ds4.git
+    version: master
